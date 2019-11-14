@@ -64,7 +64,7 @@
 	width: 750px;
 	height: 300px;
 	border-style: groove;
-	background-image: url('final2.gif');
+	background-image: url("final2.gif");
 	background-repeat: no-repeat;
 	background-size: cover;
 	display: inline-block;
